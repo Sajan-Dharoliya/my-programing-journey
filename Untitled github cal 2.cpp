@@ -15,7 +15,7 @@ int main(void){
 	cout<<"Enter Second Number:"<<endl;
 	cin>>num2;
 	
-	cout<<"Choose The Operation(=, -, *, /, %)"<<endl;
+	cout<<"Choose The Operation(+, -, *, /, %)"<<endl;
 	cout<<"Operation : ";
 	cin>>oper;
 	
